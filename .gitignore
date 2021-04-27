@@ -129,9 +129,3 @@ dmypy.json
 .pyre/
 .idea/
 .vscode/
-
-# temporary files
-tmp/
-
-# local compose file
-docker-compose.yaml
